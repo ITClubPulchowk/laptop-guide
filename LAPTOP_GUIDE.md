@@ -127,7 +127,6 @@ Electronic physical  webcam kill switch
 Genuine windows digitally licensed to your personal Microsoft account
 Windows hello login through fingerprint scanner is always a win. (Doesn't have windows hello face tho)
 Some people may take it as a con but is dead silent during basic web surfing and light tasks 
-
     - **Cons:**  Barrel port charging
 Very minimal I/O ports, 2 regular sized USB and a single type C, No RJ-45 port, No HDMI port, has micro-sd card port instead of full sized sd card slot.
 soldered ram, can't upgrade anything other than wifi-card down the line which is also a big hassle due to ultrabook nature. 
@@ -146,6 +145,7 @@ It has glossy finish and works as a mirror in outdoor settings
 - **Review**
     - Pros: Okay for light task like pdfs and webpages photoshop and stuff with 8gigs you could multitask rather well. 
     - Cons: It was okay until the ram slot died. Once got so hot that the rubber pads fell off. Know that you arent gonna do anything blender, video editing, gaming or even fucking Visual studio with 4 gigs. Even 8 gigs blenders viewport was bad and VS and jetbrains stuff lagged to death. it has served me decent on the nessasaries.
+   
 11. ***Laptop*** **Dell Inspiron 5583**
 - **Duration Used:** 1.5 years
 - **Price Range:** 90k Nrs (SSD upgrade included)
@@ -157,8 +157,8 @@ It has glossy finish and works as a mirror in outdoor settings
    - Screen-15.6"-inch, Full HD (1,920 x 1,080, 16:9 aspect ratio,  60Hz, IPS Anti-Glare LED-Backlit Display)
 
 - **Review**
- -Pros: Being dell , has an excellent support for linux (the NVIDIA GPU may sometimes give you a hassle). **Lots of ports** (in today's standards) : 3 USB type-A, 1 USB type-C, 1 optical drive(Who uses ot these days, but nice to have), ethernet, full sized HDMI, earphone-mic mixture jack, barrel jack, SD card reader. Numeric keyboard (makes a difference) and a fingerprint sensor. Expandable RAM, SSD. Wonderful build quality (dropped twice, littel scratch and a little broken chassis but nothing terrible and unbearable). Others are kinda general.
- -Cons: Sometimes overheats (when heating the fan runs just over the WASD keys spreading more heat there. Kinda okay for gaming (Don't expect anything great). A little bit on the heavier side (when compared with other notebooks)
+    - Pros: Being dell , has an excellent support for linux (the NVIDIA GPU may sometimes give you a hassle). **Lots of ports** (in today's standards) : 3 USB type-A, 1 USB type-C, 1 optical drive(Who uses ot these days, but nice to have), ethernet, full sized HDMI, earphone-mic mixture jack, barrel jack, SD card reader. Numeric keyboard (makes a difference) and a fingerprint sensor. Expandable RAM, SSD. Wonderful build quality (dropped twice, littel scratch and a little broken chassis but nothing terrible and unbearable). Others are kinda general.
+    - Cons: Sometimes overheats (when heating the fan runs just over the WASD keys spreading more heat there. Kinda okay for gaming (Don't expect anything great). A little bit on the heavier side (when compared with other notebooks)
 
 12.  ***Laptop*** **Dell Inspiron 5570**
 - **Duration Used:** 3 years
@@ -168,9 +168,11 @@ It has glossy finish and works as a mirror in outdoor settings
    - GPU - Intel(R) UHD Graphics 620 and AMD Radeon 530 (2GB)
    - Memory - 4GB DDR4, upgraded to 8GB 
    - Storage - 1TB HDD +  256GB PCIe NVMe SSD (upgraded later)
+ 
 - **Review**
- -Pros: Pretty good laptop for programming purposes, if you wanna stuffs like web development, but definitely not for heavy stuffs like Game dev.Good keyboard. A lot of ports: 2 USB 3.0 ports + 1 USB 2.0 port, USB type C port (no Thunderbolt, but I haven't used it either), HDMI, Ethernet, headphone jack.Also has a DVD driver
- -Cons: Not that good for heavy gaming. Heavy games run great in medium settings, but expect overheating. (Happened last time I played Batman Arkham Knight)Need to replace battery after 2 years. Unlike Vostro, Latitude and older Inspiron models, doesn't have a removable battery, you need to actually open the back cover to replace it.
+    - Pros: Pretty good laptop for programming purposes, if you wanna stuffs like web development, but definitely not for heavy stuffs like Game dev.Good keyboard. A lot of ports: 2 USB 3.0 ports + 1 USB 2.0 port, USB type C port (no Thunderbolt, but I haven't used it either), HDMI, Ethernet, headphone jack.Also has a DVD driver
+    - Cons: Not that good for heavy gaming. Heavy games run great in medium settings, but expect overheating. (Happened last time I played Batman Arkham Knight)Need to replace battery after 2 years. Unlike Vostro, Latitude and older Inspiron models, doesn't have a removable battery, you need to actually open the back cover to replace it.
+    
 - **Recommendation** Great student laptop, great if you just want to do minimal stuffs like surfing the internet, watching movies and word processing. Not that good for heavy tasks.
 
 13.  ***Laptop*** ** HP Pavilion Power 2018**
@@ -182,8 +184,8 @@ It has glossy finish and works as a mirror in outdoor settings
    - Memory - 8GB DDR4 2666MHz RAM [Expandable upto 16 gb maybe]
    - Storage -1TB HDD 7200RPM
 - **Review**
- -Pros: Pretty good for the price range. Keyboard is decent enough for normal typing uses too. Good Cooling Systems
- -Cons:Lets not talk about the Elan Mousepad, just forget its presence. Brightness is not that good for outdoor conditions. HDD gets used to 100% alot
+    - Pros: Pretty good for the price range. Keyboard is decent enough for normal typing uses too. Good Cooling Systems
+    - Cons:Lets not talk about the Elan Mousepad, just forget its presence. Brightness is not that good for outdoor conditions. HDD gets used to 100% alot
 - **Recommendation** SSD upgrade is a must
 
 
@@ -228,7 +230,6 @@ Does fine in almost all Machine Learning stuff.
       - Full Metal build, if you like such kind of thing.
       - You can do gaming, if you are into it,also if you are in windows, keyboard got some fancy tricks.
       - At last, overall great notebook experience.
-
     - Cons:
       - [Linux] Its so thin (less than inch) and no manually fan control so thermals peaks rather quickly,hence not really lap friendly while gaming and other heavy work.
 In windows, its fine with max fan setting available.
