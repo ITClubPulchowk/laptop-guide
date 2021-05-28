@@ -22,8 +22,7 @@
   - Storage - 1 TB HDD
 - **Review**
   - Pros - Highly upgrade-able with dual RAM slots, Numeric keypad makes life easier, easy access to ram and HDD and replaceable battery module others too general.
-  - Cons 
-     - No keyboard back-light. Battery-life (expectedly) has become non existent. Single channel memory with a very slow hard drive results in horrendous boot time after such a long use. 
+  - Cons - No keyboard back-light. Battery-life (expectedly) has become non existent. Single channel memory with a very slow hard drive results in horrendous boot time after such a long use. 
      -All in all its a pretty balanced(&powerful) laptop for its time. Capable enough to game competitive fps with ~50 fps consistent with few frame drops) and even run light blender renders.
 - **Recommendation**
   - Add SSD
