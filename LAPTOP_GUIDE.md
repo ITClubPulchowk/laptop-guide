@@ -42,7 +42,7 @@
 
 - **Overall Verdict:** Its a balanced(& powerful) laptop 
 
-4.***Laptop:*** **Asus G14 2020**
+4. ***Laptop:*** **Asus G14 2020**
 - **Duration Used**: about 3 months
 - **Price Range**: Bought at $1199
 - **Specs (Initial)**
@@ -72,10 +72,10 @@
 - **Duration Used:**  about 2.5 years 
 - **Price Range:** Bought at £1299
 - **Specs (Initial):** 
-   - CPU - Intel(R) Core(TM) i7-8750H @ 2.2GHz base clock (6 cores), upto 4.1Ghz
-   - GPU - Intel UHD Graphics 630 + 6 GB Nvidia GTX-1060
-   - Memory - 16GB DDR4, 2666 MHz
-   - Storage - 1 TB HDD (Bought later) + 256gig SSD
+  - CPU - Intel(R) Core(TM) i7-8750H @ 2.2GHz base clock (6 cores), upto 4.1Ghz
+  - GPU - Intel UHD Graphics 630 + 6 GB Nvidia GTX-1060
+  - Memory - 16GB DDR4, 2666 MHz
+  - Storage - 1 TB HDD (Bought later) + 256gig SSD
 - **Review**
     - Pros: An absolute BEAST  of a gaming laptop, CAN DO ABSOLUTELY everything, rendering, gaming, coding, movies, animation. The Works. BIG bang for the buck. Can handle easily multiple monitors for Editing and other stuff
     - Cons: Very Expensive, battery life a max of 2hrs. ..and with this particular model, a HEATING PROBLEM. So ye, basically it's a case of it being overclocked by default, so u need to undervolt it to get it working decently
@@ -146,9 +146,48 @@ It has glossy finish and works as a mirror in outdoor settings
 - **Review**
     - Pros: Okay for light task like pdfs and webpages photoshop and stuff with 8gigs you could multitask rather well. 
     - Cons: It was okay until the ram slot died. Once got so hot that the rubber pads fell off. Know that you arent gonna do anything blender, video editing, gaming or even fucking Visual studio with 4 gigs. Even 8 gigs blenders viewport was bad and VS and jetbrains stuff lagged to death. it has served me decent on the nessasaries.
+11. ***Laptop*** **Dell Inspiron 5583**
+- **Duration Used:** 1.5 years
+- **Price Range:** 90k Nrs (SSD upgrade included)
+- **Specs (Initial):** 
+   - CPU - 1.8GHz Intel Core i7-8565U (quad-core, 8MB cache)
+   - GPU -Intel(R) UHD Graphics 620 and Nvidia GeForce MX130(4GB version custom made for DELL)
+   - Memory -8GB DDR4 (with an extra slot empty)
+   - Storage - 1TB HDD +  256GB PCIe NVMe SSD (upgraded later)
+   - Screen-15.6"-inch, Full HD (1,920 x 1,080, 16:9 aspect ratio,  60Hz, IPS Anti-Glare LED-Backlit Display)
+
+- **Review**
+ -Pros: Being dell , has an excellent support for linux (the NVIDIA GPU may sometimes give you a hassle). **Lots of ports** (in today's standards) : 3 USB type-A, 1 USB type-C, 1 optical drive(Who uses ot these days, but nice to have), ethernet, full sized HDMI, earphone-mic mixture jack, barrel jack, SD card reader. Numeric keyboard (makes a difference) and a fingerprint sensor. Expandable RAM, SSD. Wonderful build quality (dropped twice, littel scratch and a little broken chassis but nothing terrible and unbearable). Others are kinda general.
+ -Cons: Sometimes overheats (when heating the fan runs just over the WASD keys spreading more heat there. Kinda okay for gaming (Don't expect anything great). A little bit on the heavier side (when compared with other notebooks)
+
+12.  ***Laptop*** **Dell Inspiron 5570**
+- **Duration Used:** 3 years
+- **Price Range:** 70k Nrs
+- **Specs (Initial):** 
+   - CPU - Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz   1.80 GHz
+   - GPU - Intel(R) UHD Graphics 620 and AMD Radeon 530 (2GB)
+   - Memory - 4GB DDR4, upgraded to 8GB 
+   - Storage - 1TB HDD +  256GB PCIe NVMe SSD (upgraded later)
+- **Review**
+ -Pros: Pretty good laptop for programming purposes, if you wanna stuffs like web development, but definitely not for heavy stuffs like Game dev.Good keyboard. A lot of ports: 2 USB 3.0 ports + 1 USB 2.0 port, USB type C port (no Thunderbolt, but I haven't used it either), HDMI, Ethernet, headphone jack.Also has a DVD driver
+ -Cons: Not that good for heavy gaming. Heavy games run great in medium settings, but expect overheating. (Happened last time I played Batman Arkham Knight)Need to replace battery after 2 years. Unlike Vostro, Latitude and older Inspiron models, doesn't have a removable battery, you need to actually open the back cover to replace it.
+- **Recommendation** Great student laptop, great if you just want to do minimal stuffs like surfing the internet, watching movies and word processing. Not that good for heavy tasks.
+
+13.  ***Laptop*** ** HP Pavilion Power 2018**
+- **Duration Used:** 2+ years
+- **Price Range:** Around 100k
+- **Specs (Initial):** 
+   - CPU -  I5 8th Gen
+   - GPU - Nvidia GeForce 1050
+   - Memory - 8GB DDR4 2666MHz RAM [Expandable upto 16 gb maybe]
+   - Storage -1TB HDD 7200RPM
+- **Review**
+ -Pros: Pretty good for the price range. Keyboard is decent enough for normal typing uses too. Good Cooling Systems
+ -Cons:Lets not talk about the Elan Mousepad, just forget its presence. Brightness is not that good for outdoor conditions. HDD gets used to 100% alot
+- **Recommendation** SSD upgrade is a must
 
 
-11. ***Laptop:*** **Acer Aspire A315-51**
+14. ***Laptop:*** **Acer Aspire A315-51**
 - **Duration Used:** 3.5 years +
 - **Price Range:** Costs around 40k ig
 - **Specs (Initial):**
@@ -172,7 +211,7 @@ When HDD  started to lag few months back using it I experienced hell. But with n
 ig its okay for its price.
 
 
-12. ***Laptop:*** **Acer Predator Triton 500**
+15. ***Laptop:*** **Acer Predator Triton 500**
 - **Duration Used:**  1 year+
 - **Price Range:** Around 200k
 - **Specs (Initial):** 
