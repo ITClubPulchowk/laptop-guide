@@ -1,6 +1,6 @@
-### Laptop Reviews and Recommendations :
+## Laptop Reviews and Recommendations :
 
-1. ***Laptop:*** **Acer Predator Helios 300(2019) [17"]**
+### 1. Laptop: Acer Predator Helios 300(2019) [17"]
 - **Duration Used**: about 1.5 years
 - **Price Range**:  Bought at 178k (Nrs.) exact
 - **Specs (Initial)**
