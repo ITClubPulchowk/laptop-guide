@@ -1,5 +1,22 @@
 ## Laptop Reviews and Recommendations :
 
+### Table of Contents:
+1. [Acer Predator Helios 300(2019) [17"]](https://github.com/IT-Club-Pulchowk/laptop-guide/blob/main/LAPTOP_GUIDE.md#1-laptop-acer-predator-helios-3002019-17) 
+2. [Dell Inspiron 3543 (15")](https://github.com/IT-Club-Pulchowk/laptop-guide/blob/main/LAPTOP_GUIDE.md#2-laptop-dell-inspiron-3543-15) 
+3. [Lenovo Legion 5i](https://github.com/IT-Club-Pulchowk/laptop-guide/blob/main/LAPTOP_GUIDE.md#3-laptop-lenovo-legion-5i) 
+4. [Asus G14 2020](https://github.com/IT-Club-Pulchowk/laptop-guide/blob/main/LAPTOP_GUIDE.md#4-laptop-asus-g14-2020) 
+5. [Dell Inspiron 5570](https://github.com/IT-Club-Pulchowk/laptop-guide/blob/main/LAPTOP_GUIDE.md#5-laptop-dell-inspiron-5570-15) 
+6. [Acer Predator Helios 300](https://github.com/IT-Club-Pulchowk/laptop-guide/blob/main/LAPTOP_GUIDE.md#6-laptop-acer-predator-helios-300) 
+7. [Apple Macbook Air](https://github.com/IT-Club-Pulchowk/laptop-guide/blob/main/LAPTOP_GUIDE.md#7-laptop-apple-macbook-airearly-2015) 
+8. [Dell Inspiron 5570](https://github.com/IT-Club-Pulchowk/laptop-guide/blob/main/LAPTOP_GUIDE.md#8-laptop-dell-inspiron-5570-15) 
+9. [HP ENVY 13T](https://github.com/IT-Club-Pulchowk/laptop-guide/blob/main/LAPTOP_GUIDE.md#9-laptop-hp-envy-13t-2019) 
+10. [Lenovo IdeaPad](https://github.com/IT-Club-Pulchowk/laptop-guide/blob/main/LAPTOP_GUIDE.md#10-laptop-lenovo-ideapad-310) 
+11. [Dell Inspiron 5583](https://github.com/IT-Club-Pulchowk/laptop-guide/blob/main/LAPTOP_GUIDE.md#11-laptop-dell-inspiron-5583) 
+12. [Dell Inspiron 5570](https://github.com/IT-Club-Pulchowk/laptop-guide/blob/main/LAPTOP_GUIDE.md#12-laptop-dell-inspiron-5570) 
+13. [HP Pavilion Power 2018](https://github.com/IT-Club-Pulchowk/laptop-guide/blob/main/LAPTOP_GUIDE.md#13-laptop-hp-pavilion-power-2018) 
+14. [Acer Aspire A315-51](https://github.com/IT-Club-Pulchowk/laptop-guide/blob/main/LAPTOP_GUIDE.md#14-laptop-acer-aspire-a315-51) 
+15. [Acer Predator Triton 500](https://github.com/IT-Club-Pulchowk/laptop-guide/blob/main/LAPTOP_GUIDE.md#15-laptop-acer-predator-triton-500) 
+
 ### 1. Laptop: Acer Predator Helios 300(2019) [17"]
 - **Duration Used**: about 1.5 years
 - **Price Range**:  Bought at 178k (Nrs.) exact
