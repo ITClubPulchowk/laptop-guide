@@ -12,7 +12,7 @@
   - Pros - Godly gaming laptop, for programming, rendering, video editing and basically runs everything that's not RTX based (chrome can have it's fill and you'll still have memory to spare )
   - Cons - Expensive, battery life 2hrs (extended upto 3hrs), and I might sound like a broken record but EXPENSIVE. The colour accuracy isn't that great so might want a separate monitor
 
-2. ***Laptop:*** **Dell Inspiron 3543 (15")**
+### 2. Laptop: Dell Inspiron 3543 (15")
 - **Duration Used**: about 5 years (is a hand-me-down been using personally for 1.5 yrs)
 - **Price Range**: Bought at ~ 81k (Nrs.) (in china)
 - **Specs (Initial/Current)**
@@ -27,7 +27,7 @@
 - **Recommendation**
   - Add SSD
 
-3.  ***Laptop:***  **Lenovo Legion 5i**
+### 3. Laptop: Lenovo Legion 5i
 - **Duration Used**: about 2 months
 - **Price Range**: Bought at ~  Nrs.130k
 - **Specs (Initial)**
@@ -42,7 +42,7 @@
 
 - **Overall Verdict:** Its a balanced(& powerful) laptop 
 
-4. ***Laptop:*** **Asus G14 2020**
+### 4. Laptop: Asus G14 2020
 - **Duration Used**: about 3 months
 - **Price Range**: Bought at $1199
 - **Specs (Initial)**
@@ -53,7 +53,7 @@
 - **Pros :** Very powerful device, can do anything based on my needs, good battery life, light device(1.6 kg)
 - **Cons:** Expensive, No webcam, no number pad
 
-5. ***Laptop:*** **Dell Inspiron 5570 (15")**
+### 5. Laptop: Dell Inspiron 5570 (15")
 - **Duration Used:** about 3 years
 - **Price Range:** Bought at 65k (Nrs.) exact
 - **Specs (Initial):**
@@ -68,7 +68,7 @@
 
 - **Recommendation:** upgrade your RAM (make use of the extra slot)
 
-6. ***Laptop*** **Acer Predator Helios 300 **
+### 6. Laptop: Acer Predator Helios 300
 - **Duration Used:**  about 2.5 years 
 - **Price Range:** Bought at £1299
 - **Specs (Initial):** 
@@ -80,7 +80,7 @@
     - Pros: An absolute BEAST  of a gaming laptop, CAN DO ABSOLUTELY everything, rendering, gaming, coding, movies, animation. The Works. BIG bang for the buck. Can handle easily multiple monitors for Editing and other stuff
     - Cons: Very Expensive, battery life a max of 2hrs. ..and with this particular model, a HEATING PROBLEM. So ye, basically it's a case of it being overclocked by default, so u need to undervolt it to get it working decently
 
-7. ***Laptop*** **Apple Macbook Air(early 2015)**
+### 7. Laptop: Apple Macbook Air(early 2015)
 - **Duration Used:** about 5 years
 - **Price Range:** Bought at ~  Nrs.126k
 - **Specs (Initial):** 
@@ -95,7 +95,7 @@ Extremely longlasting, have been going at this baby for the past 5 years, shows 
    - **Cons:** BAD for deep learning*. Lack of any kind of GPU support on those last gen lineup of Macs. Proved to be a logistical difficulty when lab teachers in 1st year implored you to install pirated versions of Proteus. Can't natively install Windows in m1 lineups
 - **Recommendation** 10/10 recommend the new M1 macbooks. For 899(student discount) you get performance beating ultrabooks in the $1500-1700 price range. Would have personally bought an m1 macbook if not for its inability to support tensorflow.
 
-8. ***Laptop*** **Dell Inspiron 5570 (15")**
+### 8. Laptop Dell Inspiron 5570 (15")
 - **Duration Used:** 3 years
 - **Price Range:** 100k ( Paid Monthly Payments of ~6k for 18 months )
 - **Specs (Initial):** 
@@ -108,7 +108,7 @@ Extremely longlasting, have been going at this baby for the past 5 years, shows 
    - Cons: Abysmal battery life 2 hours when brand new but now, Barely an hour in zorin OS and 40 mins max on windows, Keyboard's kinda loud to type in public/Library ( May vary ), No backlit Keyboard, weighs a bit high, No good for gaming and even weaker performance when not plugged in.
 - **Recommendation** Although a great laptop for its time, better laptops are out there. Get an SSD if you do buy one.
 
-9. ***Laptop:*** **HP ENVY 13T (2019)**
+### 9. Laptop: HP ENVY 13T (2019)
 - **Duration Used:** 1.5 years
 - **Price Range:**  $912
 - **Specs (Initial)**
@@ -134,7 +134,7 @@ I don't game but probably won't be a good gaming experience
 Noticeable coil whine occasionally
 It has glossy finish and works as a mirror in outdoor settings
 
-10. ***Laptop:*** **Lenovo IdeaPad 310**
+### 10. Laptop: Lenovo IdeaPad 310
 - **Duration Used:** Since class 11 ( now in 2nd year )
 - **Price Range:** Forgot exactly but should be around 70K
 - **Specs (Initial):**
@@ -146,7 +146,7 @@ It has glossy finish and works as a mirror in outdoor settings
     - Pros: Okay for light task like pdfs and webpages photoshop and stuff with 8gigs you could multitask rather well. 
     - Cons: It was okay until the ram slot died. Once got so hot that the rubber pads fell off. Know that you arent gonna do anything blender, video editing, gaming or even fucking Visual studio with 4 gigs. Even 8 gigs blenders viewport was bad and VS and jetbrains stuff lagged to death. it has served me decent on the nessasaries.
    
-11. ***Laptop*** **Dell Inspiron 5583**
+### 11. Laptop: Dell Inspiron 5583
 - **Duration Used:** 1.5 years
 - **Price Range:** 90k Nrs (SSD upgrade included)
 - **Specs (Initial):** 
@@ -160,7 +160,7 @@ It has glossy finish and works as a mirror in outdoor settings
     - Pros: Being dell , has an excellent support for linux (the NVIDIA GPU may sometimes give you a hassle). **Lots of ports** (in today's standards) : 3 USB type-A, 1 USB type-C, 1 optical drive(Who uses ot these days, but nice to have), ethernet, full sized HDMI, earphone-mic mixture jack, barrel jack, SD card reader. Numeric keyboard (makes a difference) and a fingerprint sensor. Expandable RAM, SSD. Wonderful build quality (dropped twice, littel scratch and a little broken chassis but nothing terrible and unbearable). Others are kinda general.
     - Cons: Sometimes overheats (when heating the fan runs just over the WASD keys spreading more heat there. Kinda okay for gaming (Don't expect anything great). A little bit on the heavier side (when compared with other notebooks)
 
-12.  ***Laptop*** **Dell Inspiron 5570**
+### 12. Laptop: Dell Inspiron 5570
 - **Duration Used:** 3 years
 - **Price Range:** 70k Nrs
 - **Specs (Initial):** 
@@ -175,7 +175,7 @@ It has glossy finish and works as a mirror in outdoor settings
     
 - **Recommendation** Great student laptop, great if you just want to do minimal stuffs like surfing the internet, watching movies and word processing. Not that good for heavy tasks.
 
-13.  ***Laptop*** ** HP Pavilion Power 2018**
+### 13. Laptop: HP Pavilion Power 2018
 - **Duration Used:** 2+ years
 - **Price Range:** Around 100k
 - **Specs (Initial):** 
@@ -189,7 +189,7 @@ It has glossy finish and works as a mirror in outdoor settings
 - **Recommendation** SSD upgrade is a must
 
 
-14. ***Laptop:*** **Acer Aspire A315-51**
+### 14. Laptop: Acer Aspire A315-51
 - **Duration Used:** 3.5 years +
 - **Price Range:** Costs around 40k ig
 - **Specs (Initial):**
@@ -213,7 +213,7 @@ When HDD  started to lag few months back using it I experienced hell. But with n
 ig its okay for its price.
 
 
-15. ***Laptop:*** **Acer Predator Triton 500**
+### 15. Laptop: Acer Predator Triton 500
 - **Duration Used:**  1 year+
 - **Price Range:** Around 200k
 - **Specs (Initial):** 
